@@ -54,15 +54,7 @@ The singularity is maintained via a custom administrative suite for 24/7 stabili
     * ton618-cache: Real-time Unbound recursive statistics.
     * ton618-health: Systemd status check for the security stack (Pi-hole, Unbound, WireGuard, UFW, Glances).
 
-## 👨‍💻 Maintainer
-**ScienzGuy** [@ScienzGuy](https://github.com/ScienzGuy)
-
 ---
 
-## 🔗 Related Projects
-
-| Project | Role | Tech Stack |
-| :--- | :--- | :--- |
-| **TON618** | Standalone Sentry (Security) | Pi-hole, Unbound, WireGuard |
-| **[Pi-Ollama](https://github.com/ScienzGuy/Pi-Project-GAIa)** | GAIa Cluster (AI) | Docker, Ollama, Open WebUI |
-| **[Pi-BOINC](https://github.com/ScienzGuy/Pi-Project-Theia)** | Theia Cluster (Compute) | Bare Metal Debian, BOINC |
+## 👨‍💻 Maintainer
+**ScienzGuy** [@ScienzGuy](https://github.com/ScienzGuy)
