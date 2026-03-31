@@ -82,5 +82,4 @@ The singularity is maintained via a custom administrative suite for 24/7 stabili
 
 ---
 
-## Maintainer
-**ScienzGuy** [@ScienzGuy](https://github.com/ScienzGuy)
+Maintained by Scienz_Guy | 2026
